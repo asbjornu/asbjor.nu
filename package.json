@@ -1,0 +1,22 @@
+{
+  "name": "asbjor.nu",
+  "version": "1.0.0",
+  "description": "The website of Asbjørn Ulsberg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asbjornu/asbjor.nu.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Asbjørn Ulsberg <asbjorn@ulsberg.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asbjornu/asbjor.nu/issues"
+  },
+  "homepage": "https://asbjor.nu"
+}
