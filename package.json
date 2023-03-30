@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/asbjornu/asbjor.nu/issues"
   },
-  "homepage": "https://asbjor.nu"
+  "homepage": "https://asbjor.nu",
+  "devDependencies": {
+    "resume-cli": "^3.0.8"
+  }
 }
