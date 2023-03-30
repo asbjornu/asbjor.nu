@@ -1,0 +1,339 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Asbjørn Ulsberg",
+      "label": "DX Architect, Programmer, Geek, Father and Demoscener",
+      "image": "",
+      "email": "asbjorn@ulsberg.no",
+      "phone": "95077197",
+      "url": "https://asbjor.nu/",
+      "summary": "Web technology expert and architect with a broad experience in developing, designing and managing a wide variety of systems, from web to desktop applications. Specialized in web technologies such as HTTP and architectural principles like REST and Hypermedia as well as more general software engineer best practices such as Domain Driven Design, Event Sourcing and Test Driven Development.\n\nI consider myself a full stack developer and architect knowing everything from the gritty details of database optimization to how a large software system should be designed to scale both for the size of the codebase and the load of the users and all the way up to how front-end techniques like Single Page Applications (via Angular, Aurelia, etc.) and CSS shapes work.\n\nI enjoy open source development and am involved in a lot of different projects on GitHub.",
+      "location": {
+        "countryCode": "NO",
+        "address": "Norway"
+      },
+      "profiles": [
+        {
+          "network": "Mastodon",
+          "username": "bitbear",
+          "url": "https://icosahedron.website/@bitbear"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "asbjornu",
+          "url": "https://www.linkedin.com/in/asbjornu/"
+        },
+        {
+          "network": "Twitter",
+          "username": "asbjornu",
+          "url": "https://twitter.com/asbjornu"
+        },
+        {
+          "network": "Twitter",
+          "username": "bitbearmusic",
+          "url": "https://twitter.com/bitbearmusic"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "PayEx",
+        "position": "Developer Experience Architect",
+        "startDate": "2016-01-31",
+        "endDate": "2023-03-31",
+        "highlights": [],
+        "summary": "Senior Software Architect for Developer Experience, responsible for PayEx' and Swedbank Pay's developer strategy, developer communication, documentation, SDK's, modules, plugins, etc.",
+        "url": "https://www.linkedin.com/company/payex/",
+        "location": "Oslo Area, Norway"
+      },
+      {
+        "name": "OKB AS",
+        "position": "CTO",
+        "startDate": "2008-01-31",
+        "endDate": "2016-01-31",
+        "highlights": ["CTO", "Architecture", "Operations", "Web Standards", "C#", "HTML", "JavaScript", "CSS", "SQL", "XML", "ASP.NET", "DDD", "REST", "Hypermedia", "TDD", "Git", "Bitbucket", "GitHub", "TeamCity", "Octopus Deploy"],
+        "summary": "Chief Technology Officer and former Principal Software Architect and Full-stack developer responsible for hosting environment, web standards and related technologies, the architecture of systems from design sketches through process diagrams to implementing usable web pages in HTML5, CSS3 and JavaScript, with back-ends and core domain logic in C#.",
+        "url": "https://www.linkedin.com/company/okb-as/"
+      },
+      {
+        "name": "ErgoGroup SA",
+        "position": "Web technology expert and developer",
+        "startDate": "2006-04-30",
+        "endDate": "2007-12-31",
+        "highlights": ["Web Standards", "C#", "HTML", "JavaScript", "CSS", "SQL", "XML"],
+        "summary": "I was responsible for having an overview of all the latest web technology advancements and how they applied to our customers. With a field of expertise in HTML, CSS and JavaScript, I made sure all web applications we developed were available in all browsers and for all customers, no matter what accessibility challenges they might have.",
+        "url": "https://www.linkedin.com/company/ergogroup-sa/",
+        "location": "Oslo, Oslo, Norge"
+      },
+      {
+        "name": "NRK",
+        "position": "Developer",
+        "startDate": "2001-04-30",
+        "endDate": "2006-03-31",
+        "highlights": ["ASP.NET", "C#", "JavaScript", "HTML", "CSS", "SQL Server", "Oracle", "PHP", "Java", "XML", "XSLT", "XHTML", "XQuery", "XPath"],
+        "summary": "I developed and architected software for program departments and worked for a large part in a EU project called ePerSpace, where I was a technical expert on web technologies and was responsible for the development of the information architecture of content creation and distribution.",
+        "url": "https://www.linkedin.com/company/nrk/"
+      },
+      {
+        "name": "WM-data",
+        "position": "Developer",
+        "startDate": "1999-12-31",
+        "endDate": "2001-12-31",
+        "highlights": [],
+        "summary": "I was responsible for the ECDL training software registering and administration as well as development of the web sites that published and organized the content and users of the training system.",
+        "url": "https://www.linkedin.com/company/logica/"
+      },
+      {
+        "name": "UPS",
+        "position": "Key Entry Clerk",
+        "startDate": "1997-01-31",
+        "endDate": "2000-01-31",
+        "highlights": [],
+        "summary": "Was one of the fastest key entry clerks in the department and used a lot of time to help the management with computer-related problems and challenges to make the job easier for everyone.",
+        "url": "https://www.linkedin.com/company/ups/"
+      }
+    ],
+    "volunteer": [
+      {
+        "position": "Board Member",
+        "organization": "Slåttevangen borettslag",
+        "startDate": "2014-01-01",
+        "url": "https://slattevangen.no/",
+        "summary": "I am a board member in Slåttevangen borettslag, a housing cooperative in Oslo, Norway."
+      },
+      {
+        "position": "Working Group Member",
+        "organization": "IETF AtomPub Working Group",
+        "startDate": "2003-07-01",
+        "endDate": "2007-10-22",
+        "url": "https://datatracker.ietf.org/wg/atompub/about/",
+        "summary": "I was a member of the IETF AtomPub Working Group, which was responsible for the Atom Publishing Protocol, a protocol for publishing and editing Atom feeds."
+      },
+      {
+        "position": "Working Group Member",
+        "organization": "W3C HTML Working Group",
+        "startDate": "2002-07-01",
+        "endDate": "2005-10-22",
+        "url": "https://www.w3.org/groups/wg/htmlwg",
+        "summary": "I was NRK's representative in W3C and a member of the HTML Working Group, partaking in the development of what became HTML5."
+      },
+      {
+        "position": "Community Group Member",
+        "organization": "W3C Hydra Community Group",
+        "startDate": "2018-07-01",
+        "url": "https://www.hydra-cg.com",
+        "summary": "I'm involved in the Hydra Community Group in W3C to help develop a standard for hypermedia-driven APIs."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Stovner Videregående Skole",
+        "area": "General Studies",
+        "studyType": "Senior High School",
+        "startDate": "1996-12-31",
+        "endDate": "1999-12-31",
+        "score": "",
+        "courses": ["English", "Programming"]
+      }
+    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [
+      {
+        "name": "Compositional UIs With Hosted Views And Hypermedia",
+        "publisher": "Nordic APIs",
+        "releaseDate": "2018-11-02",
+        "summary": "In the new brave world of decoupled and autonomous microservices, there’s a lot of knowledge, best practices and attention given to APIs. But once you start integrating these APIs in a UI, it quickly becomes a monolith of highly coupled components that replicate a lot of the functionality provided in the underlying APIs. As everyone probably knows and agrees to by now, monoliths are not a design goal. By making your UI compositional through hosted views and by moving some of the business logic from the client to the server through the use of hypermedia, you can achieve full vertical integrations that are horizontally decoupled in a microservice fashion all the way from the persistence layer and up to the user interface.",
+        "url": "https://www.youtube.com/watch?v=Kqb0wepe8dY"
+      },
+      {
+        "name": "REST State Machine Revisited",
+        "publisher": "Nordic APIs",
+        "releaseDate": "2018-03-28",
+        "summary": "In the months after the publication of \"Designing a True REST State Machine\" and the talk it was based on, there has been quite a bit of discussion and the questions posed should be addressed. While each could be responded to individually, perhaps they might be better served by writing everything up in a blog post. This is that blog post.",
+        "url": "https://nordicapis.com/rest-state-machine-revisited/"
+      },
+      {
+        "name": "API Change Strategy",
+        "publisher": "Nordic APIs",
+        "releaseDate": "2018-03-13",
+        "summary": "I describe a new approach to API versioning, outlining five aspects of smart API change management. Learn to adopt an API change strategy that avoids breaking change yet maintaining efficient development techniques.",
+        "url": "https://nordicapis.com/api-change-strategy/"
+      },
+      {
+        "name": "The REST And Then Some",
+        "publisher": "Nordic APIs",
+        "releaseDate": "2016-10-31",
+        "summary": "This talk is for developers dabbling in REST, but who aren’t yet invited to Roy Fielding’s thanksgiving dinner. It will go through the history of REST and how it relates to SOAP and RPC-style APIs before delving down into the concepts of hypertext and hypermedia, how to implement them in your API and last, but not least; Why! If you’ve started exploring the world of REST and miss the comfort of safe typing and service discovery of SOAP and WSDL, this talk is for you. You will learn why this is missing in the world of REST, what alternatives exist and how your API can embrace them and become much more self-descriptive and user friendly than RPC-style APIs could ever dream of!",
+        "url": "https://www.youtube.com/watch?v=QIv9YR1bMwY"
+      },
+      {
+        "name": "RFC4287",
+        "publisher": "IETF",
+        "releaseDate": "2005-12-01",
+        "summary": "The Atom Syndication Format is an XML-based document format that describes lists of related information known as \"feeds\". The primary use case that Atom addresses is the syndication of Web content such as weblogs and news headlines to Web sites as well as directly to user agents.",
+        "url": "http://www.ietf.org/rfc/rfc4287.txt"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "100%",
+        "keywords": ["HTML", "CSS", "JavaScript"]
+      },
+      {
+        "name": "Programming",
+        "level": "50%",
+        "keywords": [
+          "C#", "Java", "PHP", "JavaScript", "Bash", "Ruby", "Objective-C", "Go",
+          "TypeScript", "SQL", "TSQL", "PL/SQL", "Python", "VBScript", "Visual Basic",
+          "VB.NET", "BASIC", "Perl", "C"
+        ]
+      },
+      {
+        "name": "Markup Languages",
+        "level": "Master",
+        "keywords": ["HTML", "XML", "XSLT", "XSD", "Markdown", "WSDL", "SGML"]
+      },
+      {
+        "name": "Databases",
+        "level": "Expert",
+        "keywords": ["SQL Server", "PostgreSQL", "MySQL", "MongoDB", "Elasticsearch"]
+      },
+      {
+        "name": "Operating systems",
+        "level": "Expert",
+        "keywords": ["macOS", "Windows", "Linux", "Unix"]
+      },
+      {
+        "name": "Patterns",
+        "level": "Expert",
+        "keywords": [
+          "MVC", "Repository", "Unit of work", "Factory",
+          "Dependency injection", "Command", "Observer", "Strategy", "Adapter",
+          "Decorator", "Facade", "Proxy", "Builder", "Singleton",
+          "Chain of responsibility", "State", "Template method", "Visitor",
+          "Composite", "Iterator"
+        ]
+      },
+      {
+        "name": "Practices",
+        "level": "Expert",
+        "keywords": [
+          "Scrum", "Agile", "TDD", "BDD", "CI/CD", "DevOps",
+          "Domain-driven design", "Hypermedia", "API design", "API management"
+        ]
+      },
+      {
+        "name": "Architectural Styles",
+        "level": "Expert",
+        "keywords": [
+          "REST", "SOAP", "RPC", "Microservices", "Event-driven architecture",
+          "CQRS", "Event sourcing", "Serverless", "Cloud native"
+        ]
+      },
+      {
+        "name": "Tools",
+        "level": "Expert",
+        "keywords": [
+          "Git", "VS Code", "Visual Studio", "Postman", "Docker", "Kubernetes",
+          "CMS", "Jira", "Confluence", "TFS", "TeamCity", "Octopus Deploy",
+          "NUnit", "Selenium", "Jenkins", "SonarQube", "SonarCloud", "Xcode",
+          "Azure", "Subversion", "UML"
+        ]
+      },
+      {
+        "name": "Frameworks",
+        "level": "Expert",
+        "keywords": [
+          "Node.js", "React", "Angular", "ASP.NET", "ASP.NET Core",
+          "Express", "jQuery", "Bootstrap", "Django", "Jekyll", "Hugo"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Full Professional"
+      },
+      {
+        "language": "Norwegian",
+        "fluency": "Native Speaker"
+      },
+      {
+        "language": "German",
+        "fluency": "Elementary"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Music",
+        "keywords": [
+          "Music Production",
+          "Music Theory",
+          "Music History",
+          "Music Appreciation"
+        ]
+      },
+      {
+        "name": "Technology",
+        "keywords": [
+          "Programming",
+          "Web Development",
+          "Mobile Development",
+          "Software Development",
+          "Software Architecture",
+          "Software Design",
+          "Software Testing",
+          "Software Engineering",
+          "Software Development Life Cycle",
+          "Software Development"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": "Aleksander Andersen",
+        "reference": "There are people with technical knowledge, and there is Asbjørn. The width and dept of his knowledge is so vast that it’s hard to grasp how one person can know so much about so much. He is unique in his detailed understanding of technology and lives to spread that knowledge. Simply put he is the guy that experts turn to when stuck. Combining that passion with a easy going chap always with a smile on his face and you have Asbjørn. An explorer whose journeys are a delight to follow."
+      },
+      {
+        "name": "Bo Callander",
+        "reference": "Jeg var ansvarlig for Asbjørn i hans tid i WM-data. Asbjørn er etterrettelig, lojal, arbeidssom og positiv. Han gikk godt overens med sine kollegaer, utførte pålagte oppgaver i rett tid med god kvalitet. jeg kan gi han de beste anbefalinger"
+      },
+      {
+        "name": "Helge Kaasin",
+        "reference": "Asbjørn has an overview and competence in his field of knowledge that you seldom see. His advices are truly worth listening to. He is a likable person width a high degree of integrity."
+      },
+      {
+        "name": "Tormod Værvågen",
+        "reference": "Working for me on my team for the EU-project ePerSpace, Asbjørn was a good creative solution provider in a complex project involving 20 partners. He is very talented and is a quick learner. I can warmly recommend him!"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Web standards compliance",
+        "startDate": "2001-04-30",
+        "endDate": "2006-03-31",
+        "entity": "NRK",
+        "url": "https://www.nrk.no/",
+        "roles": ["Web Technology Expert"],
+        "description": "I was an important force and resource behind the move from a highly table-based and inaccessible web site to one of the world's first accessible and cross-browser compatible media web sites with valid HTML, made possible with extensive use of semantic HTML, CSS and JavaScript implemented according to the W3C guidelines and recommendations WCAG 1.0, XHTML 1.0, CSS1, CSS2.1 and DOM1.",
+        "highlights": ["Ensured nrk.no was accessible had valid HTML"],
+        "keywords": ["Web Standards", "Web Accessibility", "Web Development", "HTML", "CSS", "WCAG"]
+      },
+      {
+        "name": "Norwegian Tax Lists",
+        "startDate": "2002-03-01",
+        "endDate": "2003-10-01",
+        "entity": "NRK",
+        "roles": ["Full-Stack Developer"],
+        "description": "Developed a web application that allowed users to search through the tax lists - published by the Norwegian Tax Department – in ASP.NET and Microsoft SQL Server. The application executed 40 queries per second on 3.5 million database records without any problems.",
+        "highlights": ["3.5 million database records", "40 queries per second"],
+        "keywords": ["ASP.NET", "C#", "SQL Server", "Web Development"]
+      }
+    ],
+    "meta": {
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+  }
