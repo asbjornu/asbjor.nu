@@ -150,38 +150,73 @@
     "certificates": [],
     "publications": [
       {
+        "name": "What's In A Model?",
+        "publisher": "Øredev 2019",
+        "releaseDate": "2019-11-15",
+        "summary": "In this talk, I give ideas for how to structure applications in a way that will make you more proficient in your programming language all the while being able to more clearly represent and model the real world in code.",
+        "url": "https://www.youtube.com/watch?v=bRjBUHRxI9g&list=PLmhxni0dSrVoQHH-3QQHXa5JRnLuEXNIe"
+      },
+      {
+        "name": "What's Your Problem?",
+        "publisher": "Nordic APIs Platform Summit 2019",
+        "releaseDate": "2019-11-05",
+        "summary": "This talk will give you ideas of how to handle errors and exceptions that occur in your application, be it with the incoming request, database failures or errors received from a 3rd party, and how to serialize them into user friendly and actionable problem messages.",
+        "url": "https://www.youtube.com/watch?v=ZWIUn5BHDBc&list=PLmhxni0dSrVoQHH-3QQHXa5JRnLuEXNIe&index=2"
+      },
+      {
+        "name": "Evolving compositional user interfaces",
+        "publisher": "NDC Oslo 2019",
+        "releaseDate": "2019-07-02",
+        "summary": "In this talk you are introduced to the evolution of compositional user interfaces and existing patterns while we discover their pros and cons, before diving into the architecture and development of compositional interfaces using hypermedia and micro-frontends. We go beyond the simple “Hello World” example that always seems to work, and you’ll learn patterns in modelling and design that will get you up and running with decoupled, composed user interfaces in your day job.",
+        "url": "https://www.youtube.com/watch?v=sn2IyBL-fbs&list=PLmhxni0dSrVoQHH-3QQHXa5JRnLuEXNIe&index=3"
+      },
+      {
         "name": "Compositional UIs With Hosted Views And Hypermedia",
-        "publisher": "Nordic APIs",
+        "publisher": "Nordic APIs Platform Summit 2018",
         "releaseDate": "2018-11-02",
-        "summary": "In the new brave world of decoupled and autonomous microservices, there’s a lot of knowledge, best practices and attention given to APIs. But once you start integrating these APIs in a UI, it quickly becomes a monolith of highly coupled components that replicate a lot of the functionality provided in the underlying APIs. As everyone probably knows and agrees to by now, monoliths are not a design goal. By making your UI compositional through hosted views and by moving some of the business logic from the client to the server through the use of hypermedia, you can achieve full vertical integrations that are horizontally decoupled in a microservice fashion all the way from the persistence layer and up to the user interface.",
-        "url": "https://www.youtube.com/watch?v=Kqb0wepe8dY"
+        "summary": "In this talk, I demonstrate that by making your UI compositional through hosted views and by moving some of the business logic from the client to the server through the use of hypermedia, you can achieve full vertical integrations that are horizontally decoupled in a microservice fashion all the way from the persistence layer and up to the user interface.",
+        "url": "https://www.youtube.com/watch?v=Kqb0wepe8dY&list=PLmhxni0dSrVoQHH-3QQHXa5JRnLuEXNIe&index=4"
       },
       {
         "name": "REST State Machine Revisited",
-        "publisher": "Nordic APIs",
+        "publisher": "Nordic APIs Blog",
         "releaseDate": "2018-03-28",
-        "summary": "In the months after the publication of \"Designing a True REST State Machine\" and the talk it was based on, there has been quite a bit of discussion and the questions posed should be addressed. While each could be responded to individually, perhaps they might be better served by writing everything up in a blog post. This is that blog post.",
+        "summary": "This article addresses the discussions and questions posed  after the publication of “Designing a True REST State Machine” and the talk it was based on.",
         "url": "https://nordicapis.com/rest-state-machine-revisited/"
       },
       {
         "name": "API Change Strategy",
-        "publisher": "Nordic APIs",
+        "publisher": "Nordic APIs Blog",
         "releaseDate": "2018-03-13",
         "summary": "I describe a new approach to API versioning, outlining five aspects of smart API change management. Learn to adopt an API change strategy that avoids breaking change yet maintaining efficient development techniques.",
         "url": "https://nordicapis.com/api-change-strategy/"
       },
       {
         "name": "The REST And Then Some",
-        "publisher": "Nordic APIs",
+        "publisher": "Nordic APIs Platform Summit 2016",
         "releaseDate": "2016-10-31",
-        "summary": "This talk is for developers dabbling in REST, but who aren’t yet invited to Roy Fielding’s thanksgiving dinner. It will go through the history of REST and how it relates to SOAP and RPC-style APIs before delving down into the concepts of hypertext and hypermedia, how to implement them in your API and last, but not least; Why! If you’ve started exploring the world of REST and miss the comfort of safe typing and service discovery of SOAP and WSDL, this talk is for you. You will learn why this is missing in the world of REST, what alternatives exist and how your API can embrace them and become much more self-descriptive and user friendly than RPC-style APIs could ever dream of!",
-        "url": "https://www.youtube.com/watch?v=QIv9YR1bMwY"
+        "summary": "This talk is for developers dabbling in REST, but who aren’t yet invited to Roy Fielding’s thanksgiving dinner. It will go through the history of REST and how it relates to SOAP and RPC-style APIs before delving down into the concepts of hypertext and hypermedia, how to implement them in your API and last, but not least; Why!",
+        "url": "https://www.youtube.com/watch?v=QIv9YR1bMwY&list=PLmhxni0dSrVoQHH-3QQHXa5JRnLuEXNIe&index=6"
       },
       {
-        "name": "RFC4287",
+        "name": "HTML5",
+        "publisher": "W3C",
+        "releaseDate": "2008-01-22",
+        "summary": "I was a member of the W3C HTML Working Group (representing NRK between 2002 and 2005) and Web Hypertext Application Technology Working Group, contributing to the HTML specification and the development of what became HTML5.",
+        "url": "https://www.w3.org/TR/2008/WD-html5-20080122/"
+      },
+      {
+        "name": "RFC 5023",
         "publisher": "IETF",
-        "releaseDate": "2005-12-01",
-        "summary": "The Atom Syndication Format is an XML-based document format that describes lists of related information known as \"feeds\". The primary use case that Atom addresses is the syndication of Web content such as weblogs and news headlines to Web sites as well as directly to user agents.",
+        "releaseDate": "2007-10-08",
+        "summary": "I was a member of the IETF AtomPub Working Group, contributing to The Atom Publishing Protocol; an application-level protocol for publishing and editing Web resources.",
+        "url": "http://www.ietf.org/rfc/rfc5023.txt"
+      },
+      {
+        "name": "RFC 4287",
+        "publisher": "IETF",
+        "releaseDate": "2005-12-05",
+        "summary": "I was a member of the IETF AtomPub Working Group, contributing to The Atom Syndication Format; an XML-based document format that describes lists of related information known as “feeds” used to syndicate web content such as weblogs and news headlines to web sites as well as directly to user agents.",
         "url": "http://www.ietf.org/rfc/rfc4287.txt"
       }
     ],
