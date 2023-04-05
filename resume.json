@@ -29,9 +29,19 @@
           "url": "https://twitter.com/asbjornu"
         },
         {
-          "network": "Twitter",
-          "username": "bitbearmusic",
-          "url": "https://twitter.com/bitbearmusic"
+          "network": "GitHub",
+          "username": "asbjornu",
+          "url": "https://github.com/asbjornu"
+        },
+        {
+          "network": "Facebook",
+          "username": "asbjornu",
+          "url": "https://facebook.com/asbjornu"
+        },
+        {
+          "network": "Keybase",
+          "username": "asbjornu",
+          "url": "https://keybase.io/asbjornu"
         }
       ]
     },
