@@ -53,23 +53,26 @@
         "endDate": "2023-03-31",
         "highlights": [
           "Established Developer Experience as a business area, and assembled the team responsible for building and maintaining it.",
-          "Championed design thinking and user experience in the origanization, leading to Product & IT finally embracing it so much the different product departments are named Consumer and Merchant Experience."
+          "Helped establish and architect the [PayEx Design Guide](https://design.payex.com/) and [Swedbank Pay Design Guide](https://design.swedbankpay.com/).",
+          "Established the [Swedbank Pay Developer Portal](https://developer.swedbankpay.com) by gathering requirements, figuring out the information architecture, implementing the design, writing much of the initial content and setting up the CI/CD pipeline.",
+          "Championed design thinking and user experience in the origanization, leading to Product & IT finally embracing it so much the different product departments are named Consumer and Merchant Experience.",
+          "Was a driving force behind moving the organization from waterfall with quarterly, [TFS](https://en.wikipedia.org/wiki/Team_Foundation_Server)-based releases, to agile, [CI/CD](https://en.wikipedia.org/wiki/CI/CD), Git based workflow with many releases per day."
         ],
-        "summary": "Senior Software Architect for Developer Experience, responsible for PayEx' and Swedbank Pay's developer strategy, developer communication, documentation, SDK's, modules, plugins, etc.",
+        "summary": "Senior Software Architect for Developer Experience, responsible for, first PayEx', then Swedbank Pay's developer strategy, developer communication, documentation, SDK's, modules, plugins, etc.",
         "url": "https://www.linkedin.com/company/payex/",
         "location": "Oslo Area, Norway"
       },
       {
         "name": "OKB AS",
         "position": "CTO and Principal Software Architect",
-        "startDate": "2008-01-31",
+        "startDate": "2008-01-01",
         "endDate": "2016-01-31",
         "highlights": [
-          "Lead developer and architect of Ruter's self service portal.",
-          "Lead architect of the SMS ticketing system for most of Sweden's public transport, like SL, Värmlandstrafik, Uppsala län, etc., called SMSreg.",
+          "Lead developer and architect of [Ruter](https://ruter.no)'s self service portal.",
+          "Lead architect of the SMS ticketing system for most of Sweden's public transport, like [SL](https://sl.se/en/in-english/), [Värmlandstrafik](https://www.varmlandstrafik.se), [UL](https://www.ul.se/en), etc., called [SMSreg](https://web.archive.org/web/20160111214150/https://www.smsreg.me/), built on BIZI Storefront.",
           "Lead architect and developer of OKB's e-commerce engine, BIZI Storefront."
         ],
-        "summary": "Chief Technology Officer and former Principal Software Architect and Full-stack developer responsible for hosting environment, web standards and related technologies, the architecture of systems from design sketches through process diagrams to implementing usable web pages in HTML5, CSS3 and JavaScript, with back-ends and core domain logic in C#.",
+        "summary": "Chief Technology Officer and former Principal Software Architect and Fullstack developer responsible for hosting environment, web standards and related technologies, the architecture of systems from design sketches through process diagrams to implementing usable web pages in HTML5, CSS3 and JavaScript, with back-ends and core domain logic in C#.",
         "url": "https://www.linkedin.com/company/okb-as/"
       },
       {
@@ -91,12 +94,13 @@
         "startDate": "2001-04-30",
         "endDate": "2006-03-31",
         "highlights": [
-          "Made sure NRK was one of the first media companies in the world to publish valid and accessible HTML.",
-          "Developed a web application for searching through the Norwegian Tax Administration's tax lists, executing 40 queries per second on 3.5 million database records without any problems.",
+          "Ensured [NRK](https://nrk.no/) was one of the first media companies in the world to publish valid and accessible HTML.",
+          "Developed a web application for searching through the [Norwegian Tax Administration](https://www.skatteetaten.no/en/)'s tax lists, executing 40 queries per second on 3.5 million database records without any problems.",
           "Implemented the design of [Untouched](https://urort.nrk.no/) 2.0 in ASP.NET with HTML, CSS and JavaScript.",
+          "Participated as a web technology expert and developer in the EU project [ePerSpace](https://cordis.europa.eu/article/id/96028-eu-project-eperspace-home-networks-for-personalised-services), where I was developed the information architecture of content creation and distribution.",
           "Represented NRK in [W3C](https://w3.org)."
         ],
-        "summary": "I developed and architected software for program departments and worked for a large part in a EU project called ePerSpace, where I was a technical expert on web technologies and was responsible for the development of the information architecture of content creation and distribution.",
+        "summary": "Developing a plethora of different applications for various program departments in NRK, I became a web technology expert teaching the other developers everything from web standards to accessibility.",
         "url": "https://www.linkedin.com/company/nrk/"
       },
       {
@@ -107,7 +111,7 @@
         "highlights": [
           "Automated reporting of the ECDL training by creating a self-service portal the course participants could use to view their progress."
         ],
-        "summary": "I was responsible for the ECDL training software registering and administration as well as development of the web sites that published and organized the content and users of the training system.",
+        "summary": "I tutored students in [ECDL](https://en.wikipedia.org/wiki/International_Computer_Driving_Licence), and was responsible for administering everything from  training software registering and administration as well as development of the web sites that published and organized the content and users of the training system.",
         "url": "https://www.linkedin.com/company/logica/"
       },
       {
@@ -116,7 +120,7 @@
         "startDate": "1997-01-31",
         "endDate": "2000-01-31",
         "highlights": [
-          "Was one of the fastest key entry clerks in the department.",
+          "Was the quickest key entry clerk in the department.",
           "Helped management with computer-related problems and challenges to make the job easier for everyone."
         ],
         "summary": "Worked as a key entry clerk to process and register packages and shipments being exported from UPS Norway.",
@@ -152,14 +156,14 @@
         "startDate": "2002-07-01",
         "endDate": "2005-10-22",
         "url": "https://www.w3.org/groups/wg/htmlwg",
-        "summary": "I was NRK's representative in W3C and a member of the HTML Working Group, partaking in the development of what became HTML5."
+        "summary": "I was NRK's representative in W3C and a member of the HTML Working Group, partaking in the development of what eventually became HTML5."
       },
       {
         "position": "Community Group Member",
         "organization": "W3C Hydra Community Group",
-        "startDate": "2018-07-01",
+        "startDate": "2015-09-19",
         "url": "https://www.hydra-cg.com",
-        "summary": "I'm involved in the Hydra Community Group in W3C to help develop a standard for hypermedia-driven APIs."
+        "summary": "I'm a member of the [Hydra Community Group in W3C](https://www.w3.org/community/hydra/) to help develop a standard for hypermedia-driven APIs."
       }
     ],
     "education": [
@@ -390,7 +394,7 @@
         "url": "https://www.nrk.no/",
         "roles": ["Web Technology Expert"],
         "description": "I was an important force and resource behind the move from a highly table-based and inaccessible web site to one of the world's first accessible and cross-browser compatible media web sites with valid HTML, made possible with extensive use of semantic HTML, CSS and JavaScript implemented according to the W3C guidelines and recommendations WCAG 1.0, XHTML 1.0, CSS1, CSS2.1 and DOM1.",
-        "highlights": ["Ensured nrk.no was accessible had valid HTML"],
+        "highlights": ["Ensured NRK.no was accessible with valid HTML"],
         "keywords": ["Web Standards", "Web Accessibility", "Web Development", "HTML", "CSS", "WCAG"]
       },
       {
@@ -398,7 +402,7 @@
         "startDate": "2002-03-01",
         "endDate": "2003-10-01",
         "entity": "NRK",
-        "roles": ["Full-Stack Developer"],
+        "roles": ["Fullstack Developer"],
         "description": "Developed a web application that allowed users to search through the tax lists - published by the Norwegian Tax Department – in ASP.NET and Microsoft SQL Server. The application executed 40 queries per second on 3.5 million database records without any problems.",
         "highlights": ["3.5 million database records", "40 queries per second"],
         "keywords": ["ASP.NET", "C#", "SQL Server", "Web Development"]
