@@ -51,26 +51,36 @@
         "position": "Developer Experience Architect",
         "startDate": "2016-01-31",
         "endDate": "2023-03-31",
-        "highlights": [],
+        "highlights": [
+          "Established Developer Experience as a business area, and assembled the team responsible for building and maintaining it.",
+          "Championed design thinking and user experience in the origanization, leading to Product & IT finally embracing it so much the different product departments are named Consumer and Merchant Experience."
+        ],
         "summary": "Senior Software Architect for Developer Experience, responsible for PayEx' and Swedbank Pay's developer strategy, developer communication, documentation, SDK's, modules, plugins, etc.",
         "url": "https://www.linkedin.com/company/payex/",
         "location": "Oslo Area, Norway"
       },
       {
         "name": "OKB AS",
-        "position": "CTO",
+        "position": "CTO and Principal Software Architect",
         "startDate": "2008-01-31",
         "endDate": "2016-01-31",
-        "highlights": ["CTO", "Architecture", "Operations", "Web Standards", "C#", "HTML", "JavaScript", "CSS", "SQL", "XML", "ASP.NET", "DDD", "REST", "Hypermedia", "TDD", "Git", "Bitbucket", "GitHub", "TeamCity", "Octopus Deploy"],
+        "highlights": [
+          "Lead developer and architect of Ruter's self service portal.",
+          "Lead architect of the SMS ticketing system for most of Sweden's public transport, like SL, Värmlandstrafik, Uppsala län, etc., called SMSreg.",
+          "Lead architect and developer of OKB's e-commerce engine, BIZI Storefront."
+        ],
         "summary": "Chief Technology Officer and former Principal Software Architect and Full-stack developer responsible for hosting environment, web standards and related technologies, the architecture of systems from design sketches through process diagrams to implementing usable web pages in HTML5, CSS3 and JavaScript, with back-ends and core domain logic in C#.",
         "url": "https://www.linkedin.com/company/okb-as/"
       },
       {
-        "name": "ErgoGroup SA",
+        "name": "ErgoGroup",
         "position": "Web technology expert and developer",
         "startDate": "2006-04-30",
         "endDate": "2007-12-31",
-        "highlights": ["Web Standards", "C#", "HTML", "JavaScript", "CSS", "SQL", "XML"],
+        "highlights": [
+          "Worked on NAF's system for managing customers, car services and products nation-wide for all of NAF's 495 000 members.",
+          "Developed and implemented the design for the web site of Norwegian Institute of Public Health, in HTML, CSS and JavaScript."
+        ],
         "summary": "I was responsible for having an overview of all the latest web technology advancements and how they applied to our customers. With a field of expertise in HTML, CSS and JavaScript, I made sure all web applications we developed were available in all browsers and for all customers, no matter what accessibility challenges they might have.",
         "url": "https://www.linkedin.com/company/ergogroup-sa/",
         "location": "Oslo, Oslo, Norge"
@@ -80,7 +90,12 @@
         "position": "Developer",
         "startDate": "2001-04-30",
         "endDate": "2006-03-31",
-        "highlights": ["ASP.NET", "C#", "JavaScript", "HTML", "CSS", "SQL Server", "Oracle", "PHP", "Java", "XML", "XSLT", "XHTML", "XQuery", "XPath"],
+        "highlights": [
+          "Made sure NRK was one of the first media companies in the world to publish valid and accessible HTML.",
+          "Developed a web application for searching through the Norwegian Tax Administration's tax lists, executing 40 queries per second on 3.5 million database records without any problems.",
+          "Implemented the design of [Untouched](https://urort.nrk.no/) 2.0 in ASP.NET with HTML, CSS and JavaScript.",
+          "Represented NRK in [W3C](https://w3.org)."
+        ],
         "summary": "I developed and architected software for program departments and worked for a large part in a EU project called ePerSpace, where I was a technical expert on web technologies and was responsible for the development of the information architecture of content creation and distribution.",
         "url": "https://www.linkedin.com/company/nrk/"
       },
@@ -89,7 +104,9 @@
         "position": "Developer",
         "startDate": "1999-12-31",
         "endDate": "2001-12-31",
-        "highlights": [],
+        "highlights": [
+          "Automated reporting of the ECDL training by creating a self-service portal the course participants could use to view their progress."
+        ],
         "summary": "I was responsible for the ECDL training software registering and administration as well as development of the web sites that published and organized the content and users of the training system.",
         "url": "https://www.linkedin.com/company/logica/"
       },
@@ -98,8 +115,11 @@
         "position": "Key Entry Clerk",
         "startDate": "1997-01-31",
         "endDate": "2000-01-31",
-        "highlights": [],
-        "summary": "Was one of the fastest key entry clerks in the department and used a lot of time to help the management with computer-related problems and challenges to make the job easier for everyone.",
+        "highlights": [
+          "Was one of the fastest key entry clerks in the department.",
+          "Helped management with computer-related problems and challenges to make the job easier for everyone."
+        ],
+        "summary": "Worked as a key entry clerk to process and register packages and shipments being exported from UPS Norway.",
         "url": "https://www.linkedin.com/company/ups/"
       }
     ],
