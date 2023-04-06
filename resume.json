@@ -125,6 +125,13 @@
     ],
     "volunteer": [
       {
+        "position": "Core Team Member",
+        "organization": "GitVersion",
+        "startDate": "2014-10-24",
+        "url": "https://gitversion.net",
+        "summary": "I'm a core team member of GitVersion, a tool for easy versioning of projects using Git."
+      },
+      {
         "position": "Board Member",
         "organization": "Slåttevangen borettslag",
         "startDate": "2014-01-01",
