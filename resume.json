@@ -69,8 +69,8 @@
         "endDate": "2016-01-31",
         "highlights": [
           "Lead developer and architect of [Ruter](https://ruter.no)'s self service portal.",
-          "Lead architect of the SMS ticketing system for most of Sweden's public transport, like [SL](https://sl.se/en/in-english/), [Värmlandstrafik](https://www.varmlandstrafik.se), [UL](https://www.ul.se/en), etc., called [SMSreg](https://web.archive.org/web/20160111214150/https://www.smsreg.me/), built on BIZI Storefront.",
-          "Lead architect and developer of OKB's e-commerce engine, BIZI Storefront."
+          "Lead architect of the SMS ticketing system for most of Sweden's public transport.",
+          "Lead architect and developer of OKB's e-commerce engine, BIZI™️ Storefront."
         ],
         "summary": "Chief Technology Officer and former Principal Software Architect and Fullstack developer responsible for hosting environment, web standards and related technologies, the architecture of systems from design sketches through process diagrams to implementing usable web pages in HTML5, CSS3 and JavaScript, with back-ends and core domain logic in C#.",
         "url": "https://www.linkedin.com/company/okb-as/"
@@ -148,7 +148,7 @@
         "startDate": "2003-07-01",
         "endDate": "2007-10-22",
         "url": "https://datatracker.ietf.org/wg/atompub/about/",
-        "summary": "I was a member of the IETF AtomPub Working Group, which was responsible for the Atom Publishing Protocol, a protocol for publishing and editing Atom feeds."
+        "summary": "I was a member of the [IETF AtomPub Working Group](https://datatracker.ietf.org/wg/atompub/about/), which was responsible for the Atom Publishing Protocol, a protocol for publishing and editing Atom feeds."
       },
       {
         "position": "Working Group Member",
@@ -406,6 +406,129 @@
         "description": "Developed a web application that allowed users to search through the tax lists - published by the Norwegian Tax Department – in ASP.NET and Microsoft SQL Server. The application executed 40 queries per second on 3.5 million database records without any problems.",
         "highlights": ["3.5 million database records", "40 queries per second"],
         "keywords": ["ASP.NET", "C#", "SQL Server", "Web Development"]
+      },
+      {
+        "name": "Urørt 2.0",
+        "startDate": "2005-08-01",
+        "endDate": "2006-03-31",
+        "entity": "NRK",
+        "url": "https://www.nrk.no/urort/",
+        "roles": ["Fullstack Developer"],
+        "description": "Responsible for the development and implementation of the design in ASP.NET with HTML, CSS and JavaScript. Also developed a range of components for song administration as well as do most of the database design, implementation and performance tuning.",
+        "highlights": [""],
+        "keywords": ["ASP.NET", "C#", "SQL", "HTML", "CSS", "JavaScript"]
+      },
+      {
+        "name": "The Norwegian Institute of Public Health",
+        "startDate": "2006-04-01",
+        "endDate": "2006-05-31",
+        "entity": "ErgoGroup",
+        "url": "https://www.fhi.no/",
+        "roles": ["Frontend Developer"],
+        "description": "Developed and implemented the web design of the Norwegian Institute of Public Health, in HTML, CSS and JavaScript.",
+        "highlights": [""],
+        "keywords": ["HTML", "CSS", "JavaScript"]
+      },
+      {
+        "name": "Norwegian Automobile Federation",
+        "startDate": "2006-06-01",
+        "endDate": "2006-10-31",
+        "entity": "ErgoGroup",
+        "url": "https://naf.no/",
+        "roles": ["Systems Developer"],
+        "description": "I was part of a small team developing NAF's system for managing customers, car services and products nation-wide for all of NAF's 495.000 members.",
+        "highlights": [
+          "Serving 495.000 NAF members", "The system was a great success, increasing productivity and easening the work of planning and organization.",
+          "The system was also sold to the Danish Automobile Federation for managing their customers, car services and products."
+        ],
+        "keywords": ["C#", "BizFlow", "XML", "XSLT", "XPath", "SOAP", "WSDL", "XSD", "SQL"]
+      },
+      {
+        "name": "BRO Service Handling System",
+        "startDate": "2008-03-01",
+        "endDate": "2008-05-09",
+        "entity": "Tiger-IT",
+        "roles": ["Fullstack Developer"],
+        "description": "Developed a large Service Handling System for [Elfo AS](https://elfo.no) where users, workshops and stores could view, create and follow the status of different service requests made by individual customers.",
+        "highlights": ["Used by some of the largest jewellery and wrist watch chains in Norway."],
+        "keywords": ["HTML", "CSS", "JavaScript", "ASP.NET", "MVC", "C#", "SQL", "NHibernate"]
+      },
+      {
+        "name": "Ruter self service portal",
+        "startDate": "2008-04-01",
+        "endDate": "2012-08-01",
+        "entity": "OKB AS",
+        "url": "https://www.ruter.no/",
+        "roles": ["Solution Architect", "Lead Developer"],
+        "description": "Architect and lead developer of the self service and order application for one of Norway's largest public transport companies, Ruter AS. Developed in a custom MVC framework on ASP.NET with NHibernate, HTML, CSS and jQuery.",
+        "highlights": ["Under constant scrutiny and attacks by critics, hackers and regular users, the portal strong with high reviews from some of Norway's most acknowledged security experts as well as user interface consultants."],
+        "keywords": ["HTML", "CSS", "JavaScript", "ASP.NET", "MVC", "C#", "SQL", "NHibernate", "jQuery", "Web Services", "SOAP", "WSDL"]
+      },
+      {
+        "name": "Galligani.no",
+        "startDate": "2008-02-01",
+        "endDate": "2011-03-01",
+        "entity": "Tiger-IT",
+        "roles": ["Fullstack Developer"],
+        "description": "Implemented the whole site of Galligani.no, created in WordPress with self-written administration modules for Galligani's products, plugins for image manipulation, wishlist functionality, etc.",
+        "highlights": ["The site was a great success and was in production for many years with little need for maintenance before it was replaced by a new site reimplementing all of the functionality."],
+        "keywords": ["HTML", "CSS", "JavaScript", "PHP", "WordPress", "SQL"]
+      },
+      {
+        "name": "Fortellerfestivalen.no",
+        "startDate": "2006-12-01",
+        "endDate": "2013-11-12",
+        "entity": "Tiger-IT",
+        "url": "https://fortellerfestivalen.no",
+        "roles": ["Fullstack Developer"],
+        "description": "Implemented the design and programmed Fortellerfestivalen's website every year from 2006 to 2013. The website was developed as plugins and themes on top of WordPress in PHP, HTML, CSS and JavaScript.",
+        "highlights": [""],
+        "keywords": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"]
+      },
+      {
+        "name": "Elixia",
+        "startDate": "2012-02-01",
+        "endDate": "2013-05-01",
+        "entity": "OKB AS",
+        "roles": ["Solutions Architect", "Lead Developer"],
+        "description": "Lead architect and developer of Elixia's new web order and member service system, based on BIZI™️ Storefront. The front-end was written in ASP.NET MVC, communicating with Storefront through its REST API.",
+        "highlights": [""],
+        "keywords": ["ASP.NET", "MVC", "C#", "REST", "HTML", "CSS", "JavaScript"]
+      },
+      {
+        "name": "SMSreg",
+        "startDate": "2013-06-01",
+        "endDate": "2014-06-01",
+        "entity": "OKB AS",
+        "roles": ["Solutions Architect", "Lead Developer"],
+        "description": "Lead architect of the SMS ticketing system for most of Sweden's public transport, such as [SL](https://sl.se/en/in-english/), [Värmlandstrafik](https://www.varmlandstrafik.se), [UL](https://www.ul.se/en), etc., called [SMSreg](https://web.archive.org/web/20160111214150/https://www.smsreg.me/). The application was written in ASP.NET MVC with a public API taking ticket orders from [Mobill](https://mobill.se/home)'s SMS gateway. The orders were sent to BIZI™️ Storefront for processing and paid by invoice or credit card through [PayEx](https://www.payex.com). ",
+        "highlights": ["The application handled several hundred thousand Swedish customers, amounting several million transactions every year."],
+        "keywords": ["ASP.NET", "MVC", "C#", "REST", "HTML", "CSS", "JavaScript"]
+      },
+      {
+        "name": "BIZI™️ Storefront",
+        "startDate": "2009-08-25",
+        "endDate": "2016-03-15",
+        "entity": "OKB AS",
+        "roles": ["Solutions Architect", "Lead Developer"],
+        "description": "Lead architect and developer of OKB's e-commerce engine, written from the ground up to support a wide range of use-cases, focusing on modularity, extensibility and generic interfaces to support customer needs without being specially tailored to anyone or anything.",
+        "highlights": [
+          "Storefront could handle anything from subscription-based shipments and payments to single purchases, all within the same generic code base.",
+          "The engine was written in C# with a public API available through a true RESTful interface which is accessed by everything from Storefront's own administrative GUI, client's custom web pages, to third-party iOS applications."
+        ],
+        "keywords": ["C#", "ASP.NET"]
+      },
+      {
+        "name": "PayEx Checkout",
+        "startDate": "2009-08-25",
+        "endDate": "2016-03-15",
+        "entity": "PayEx",
+        "roles": [""],
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "keywords": ["C#", "ASP.NET"]
       }
     ],
     "meta": {
